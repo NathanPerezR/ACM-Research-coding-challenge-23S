@@ -52,6 +52,6 @@ G – 5,200 to 6,000 Kelvin – colour description: yellow
 K – 3,700 to 5,200 Kelvin – colour description: orange
 M – 2,400 to 3,700 Kelvin – colour description: red
 
-Doing the graph this away allows for a much cleaner expression of the stars colors, and the viewier can easily see that blue stars are the hottest stars, while red are coldest. The viewer can also see that stars of simular temps can have different lum's. Intrestingly a star is present that is outside of this data range, having a temp of 1939, and a listed type of M.
+If we where to graph based on the new temps we would see much cleaner expression of the stars colors, and the viewier would easily see that blue stars are the hottest stars, while red are coldest.  The viewer would also be able to tell  stars of simular temps can have different lum's.  Intrestingly a star is present that is outside of this data range, having a temp of 1939, and a listed type of M.
 
 Although stars being outside of their expected class is intresting, There is not enough infomation given to be sure why this is occuring. The data shows that the errors are not distributed along the whole data set, but instead showing clumping in the areas that are mainly Main Sequence Stars, Super Giants, and white dwarfs.
